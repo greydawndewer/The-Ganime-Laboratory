@@ -3,6 +3,7 @@ import datetime
 from playsound import playsound
 import pyautogui
 import pyperclip
+import spotipy 
 import webbrowser
 from notifypy import Notify
 import speech_recognition as sr
